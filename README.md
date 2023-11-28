@@ -1,2 +1,2 @@
-# Js-tutorials
-A code repo for javascript series.
+# JavaScript Projects
+A code repo for the javascript series.
